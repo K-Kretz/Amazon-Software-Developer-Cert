@@ -1,9 +1,9 @@
 public class CookingCode{
 
-    public double calculateIngredientQuantity(int servings, double originalQuantity){
+    public static double calculateIngredientQuantity(int servings, double originalQuantity){
         return servings * originalQuantity;
     }
-    public void spiceUpDish(int spiceLevel) {
+    public static void spiceUpDish(int spiceLevel) {
         switch(spicelevel)
         {
             case 1:
@@ -26,7 +26,7 @@ public class CookingCode{
         }
     }
 
-    public void greetGuest(String name, String timeOfDay) {
+    public static void greetGuest(String name, String timeOfDay) {
         switch (timeOfDay)
         {
             case "morning":
@@ -42,6 +42,8 @@ public class CookingCode{
                 System.out.println("Error: Please enter a valid time of day");
         }
     }
+
+
     static void main(String[] args) {
         double newQuantity = calculateIngredientQuantity(0, 0.0);
         spiceUpDish(0);
