@@ -4,11 +4,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.amazondatabase</groupId>
-  <artifactId>setting_up_environment</artifactId>
+  <groupId>com.example</groupId>
+  <artifactId>loading_and_registering_drivers</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>setting_up_environment</name>
+  <name>loading_and_registering_drivers</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -19,13 +19,6 @@
   </properties>
 
   <dependencies>
-
-    <dependency>
-      <groupId>com.mysql</groupId>
-      <artifactId>mysql-connector-j</artifactId>
-      <version>9.2.0</version>
-    </dependency>
-
 
     <dependency>
       <groupId>com.mysql</groupId>
