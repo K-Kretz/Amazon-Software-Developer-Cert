@@ -16,20 +16,21 @@ public class DataSourceConnectionHelper {
         mySQLDataSource.setPassword(password);
 
         try(Connection con = mySQLDataSource.getConnection();
-        PreparedStatement st = con.prepareStatement("SELECt * FROM city WHERE population < ?"))
+        PreparedStatement st = con.prepareStatement("SELECt * FROM city WHERE population < ?");)
         {
             st.setInt(1, 100000);
-
             ResultSet rs = st.executeQuery();
-
+            
             while (rs.next()) {
                 System.out.println("Name: "+rs.getString("name")+" | "+ "Population: "+ rs.getInt("population"));
             }
-            
+            rs.close();
         } catch (Exception e) {
             // TODO: handle exception
             System.out.println(e.getMessage());
         }
+            
+        
     }
 
 }
