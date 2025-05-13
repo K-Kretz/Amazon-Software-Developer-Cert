@@ -1,0 +1,13 @@
+.main-content {
+    display: grid;
+    grid-template-columns: 2fr 1fr;  
+    grid-template-rows: auto;        
+    gap: 20px;                     
+    padding: 20px;
+}
+@media (max-width: 768px) {
+    .main-content {
+        /* TODO: stack sections vertically */
+        grid-template-rows: auto auto;   /* Auto height for each row */
+    }
+}
