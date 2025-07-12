@@ -1,5 +1,5 @@
 # Amazon-Software-Developer-Cert
-What you'll learn
+What you'll learn form this
 
 Gain essential skills in software development, including understanding roles, the SDLC, and various methodologies.  
 
