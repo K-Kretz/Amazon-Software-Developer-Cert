@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Module 2/Advanced Spring Boot/Solution-Authorization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 2/Advanced Spring Boot/Spring-boot-Database-JPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 2/Advanced Spring Boot/ecommerce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 2/Advanced Spring Boot/security-with-registration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 2/Advanced Spring Boot/spring-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 2/MVC Architecture and Spring/ecommerce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 2/MVC Architecture and Spring/form-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 2/MVC Architecture and Spring/menu-crud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 2/MVC Architecture and Spring/menu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 2/Spring Boot/rest-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 3/Consuming APIs on the frontend/fetch-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 3/RESTful Services with Spring boot/api-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 3/RESTful Services with Spring boot/digilib/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 3/RESTful Services with Spring boot/error-handling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Module 3/RESTful Services with Spring boot/validation-example/src/main/java" charset="UTF-8" />
+  </component>
+</project>

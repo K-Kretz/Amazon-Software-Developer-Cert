@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rest-example" />
+        <module name="api-example" />
+        <module name="digilib" />
+        <module name="validation-example" />
+        <module name="form-submission" />
+        <module name="ecommerce (1) (com.quickcart)" />
+        <module name="fetch-api" />
+        <module name="menu" />
+        <module name="example" />
+        <module name="security-with-registration" />
+        <module name="error-handling" />
+        <module name="example (1)" />
+        <module name="menu (1)" />
+        <module name="ecommerce" />
+        <module name="spring-security" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-example" options="-parameters" />
+      <module name="digilib" options="-parameters" />
+      <module name="ecommerce" options="-parameters" />
+      <module name="ecommerce (1) (com.quickcart)" options="-parameters" />
+      <module name="error-handling" options="-parameters" />
+      <module name="example" options="-parameters" />
+      <module name="example (1)" options="-parameters" />
+      <module name="fetch-api" options="-parameters" />
+      <module name="form-submission" options="-parameters" />
+      <module name="menu" options="-parameters" />
+      <module name="menu (1)" options="-parameters" />
+      <module name="rest-example" options="-parameters" />
+      <module name="security-with-registration" options="-parameters" />
+      <module name="spring-security" options="-parameters" />
+      <module name="validation-example" options="-parameters" />
+    </option>
+  </component>
+</project>
